@@ -3518,5 +3518,13 @@
     "symbol": "FUSE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
+  },
+  {
+    "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+    "chainId": 1,
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44709a920fccf795fbc57baa433cc3dd53c44dbe/logo.png"
   }
 ]
